@@ -1,0 +1,5 @@
+[
+  "What is the fastest land animal?",
+  "What mammal is known for its large tusks?",
+  "Which bird is known for its vibrant tail feathers?"
+]
